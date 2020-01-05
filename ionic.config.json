@@ -1,5 +1,7 @@
 {
   "name": "saving-memories",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
